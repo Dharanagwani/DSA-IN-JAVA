@@ -1,3 +1,6 @@
+//Problem link - https://leetcode.com/problems/two-sum/description/  (Leetcode 1 -> Easy)
+//Approach - use hashmap to store remaining sum
+//Time complexity : O(n) and Space Complexity : O(n)
 
 import java.util.*;
 
