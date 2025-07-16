@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Arrays Part-1/TwoSum.java
 /*
  🔗 Problem: [Two Sum – LeetCode #1](https://leetcode.com/problems/two-sum/)
  🎯 Level: Easy
@@ -15,6 +16,9 @@
 */
 
 import java.util.*;
+=======
+import java.util.HashMap;
+>>>>>>> 0cc8be1 (Renamed Arrays):Arrays/TwoSum.java
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int ans[] = new int[2];
