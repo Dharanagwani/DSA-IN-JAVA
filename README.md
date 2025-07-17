@@ -1,9 +1,9 @@
 # 🧩 DSA in Java
 
 **Collection of solved data-structure & algorithm problems in Java, each including:**
-- 🔗 Problem link (LeetCode / GFG / InterviewBit)
+- 🔗 Problem link (LeetCode / GFG)
 - 🧠 Approach explanation via inline comments
-- ⏱ Time & 👛 Space complexity analysis
+- ⏱ Time & Space complexity analysis
 - 📁 Organized by topic
 
 ## Topics Covered
