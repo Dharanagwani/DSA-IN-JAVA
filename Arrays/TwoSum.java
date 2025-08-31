@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Arrays Part-1/TwoSum.java
+
 /*
  🔗 Problem: [Two Sum – LeetCode #1](https://leetcode.com/problems/two-sum/)
  🎯 Level: Easy
@@ -14,13 +14,9 @@
  👛 Space Complexity: O(n) – to store elements in the map
  
 */
-
-import java.util.*;
-=======
 import java.util.HashMap;
->>>>>>> 0cc8be1 (Renamed Arrays):Arrays/TwoSum.java
 public class TwoSum {
-    public int[] twoSum(int[] nums, int target) {
+    public static int[] twoSum(int[] nums, int target) {
         int ans[] = new int[2];
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<nums.length;i++){
