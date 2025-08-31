@@ -9,6 +9,7 @@
 ## Topics Covered
 - Array
 - Binary search
+- Sorting
 - Two pointers and sliding window
 - Strings
 - Hashing
